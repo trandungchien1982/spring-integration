@@ -146,3 +146,6 @@ gradle-app.setting
 .classpath
 /SpringBoot+FilePoll+DirectChannel/spring-integration-directchannel/.idea/
 /SpringBoot+FTPTracking/spring-integration-ftptracking/.idea/
+/SpringBoot+FTPTrackingWithDSL/spring-ftptracking-dsl/.idea/
+/SpringBoot+FTPTrackingWithDSL/SFTPServer/host_sftp/upload/
+/SpringBoot+FTPTrackingWithDSL/spring-ftptracking-dsl/Download-FTP/
