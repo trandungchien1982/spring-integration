@@ -1,0 +1,19 @@
+version: '2'
+services:
+  sftp:
+    image: atmoz/sftp
+    volumes:
+      - ./host_sftp/upload:/home/foo/upload
+    ports:
+      - "22:22"
+    command: foo:pass:1001
+    networks:
+      - common_network
+networks:
+    common_network:
+      external: true
+
+
+# Create sFTP Server with login information :
+# User/Pass : foo/pass
+# Port 22, mapping forlder in computer ./host/upload

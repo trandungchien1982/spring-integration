@@ -1,0 +1,14 @@
+Avira free Antivirus 2019
+7zip
+Unikey
+MS Office (Word/Excel/PowerPoint)
+Cmder
+Chrome/Firefox
+Intellij IDEA
+Eclipse
+MySQL
+MySQL Workbench
+Git/Tortoise Git
+Source Tree
+Docker
+Java 8
